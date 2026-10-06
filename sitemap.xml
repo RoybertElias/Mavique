@@ -1,64 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/about.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/contact.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/privacy.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/terms.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/disclosure.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/tools/index.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/category/ai-tools.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/category/business-software.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/category/comparisons.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/category/reviews.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/category/guides.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/guides/best-ai-tools-small-business.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/guides/choose-productivity-software.html</loc>
-  </url>
-
-  <url>
-    <loc>https://roybertelias.github.io/Mavique/guides/ai-tools-for-marketing.html</loc>
-  </url>
-
+  <url><loc>https://roybertelias.github.io/Mavique/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/about.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/contact.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/editorial.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/privacy.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/terms.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/affiliate.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/ai.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/software.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/comparisons.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/guides.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/marketing.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/productivity.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/category/automation.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-ai-tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-crm.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/chatgpt-vs-claude.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/hubspot-vs-salesforce.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/quickbooks-vs-xero.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/notion-vs-clickup.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/how-to-use-ai.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/choose-crm.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/ai-roi.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/invoicing.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-ai-writing-tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-ai-marketing-tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-free-ai-tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-accounting-software.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-project-management-software.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-email-marketing-software.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-ai-productivity-tools.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/10-business-tasks-you-can-automate-with-ai.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://roybertelias.github.io/Mavique/articles/best-automation-tools.html</loc><changefreq>monthly</changefreq></url>
 </urlset>

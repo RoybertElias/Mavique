@@ -1,6 +1,11 @@
-# Mavique V1
-Static responsive prototype for the planned AI/software editorial site.
+# Mavique
 
-Mavique is a PROVISIONAL brand. Do not purchase a domain based on this name until final validation.
+Static editorial website focused on practical AI, business software, productivity and automation guidance.
 
-Before production: replace placeholder articles/legal pages, verify current product facts and prices, connect analytics/Search Console/newsletter/contact form, configure the final domain and canonical URLs, and perform a policy/SEO review.
+## Production notes
+- All indexed content is now available as real HTML pages rather than placeholder text injected only by JavaScript.
+- The sitemap contains only URLs that exist in the project.
+- Legal, editorial and disclosure pages contain substantive site policies.
+- The newsletter is intentionally not connected yet, so the site does not pretend to collect email addresses.
+- Product prices, features and availability should be verified against first-party sources before publishing time-sensitive claims.
+- Before applying for advertising monetization, connect a real contact method, review the privacy/cookie disclosures for the services actually enabled, and continue publishing useful original content.
