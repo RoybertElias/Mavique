@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>/</loc></url><url><loc>/tools.html</loc></url><url><loc>/category.html?cat=ai</loc></url><url><loc>/category.html?cat=software</loc></url><url><loc>/category.html?cat=comparisons</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/privacy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/terms.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/disclosure.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/tools/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/category/ai-tools.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/category/business-software.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/category/comparisons.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/category/reviews.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/category/guides.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/guides/best-ai-tools-small-business.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/guides/choose-productivity-software.html</loc>
+  </url>
+
+  <url>
+    <loc>https://roybertelias.github.io/Mavique/guides/ai-tools-for-marketing.html</loc>
+  </url>
+
+</urlset>
